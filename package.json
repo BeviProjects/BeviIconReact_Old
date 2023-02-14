@@ -37,6 +37,9 @@
   "publishConfig": {
     "access": "public"
   },
+  "dependencies": {
+    "module-name": "https://github.com/BeviProjects/BeviIconReact/releases/tag/v1.0.zip"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
